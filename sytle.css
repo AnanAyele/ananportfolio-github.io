@@ -4,11 +4,11 @@
 body{
 
 text-align: center;
-align-content: center;
-/* background-image: url("images/backgroung/background.jpg"); 
+/*align-content: center; */
+background-image: url("images/backgroung/background.jpg"); 
 background-size: cover; 
 background-repeat: repeat;
-background-size: 100%;*/
+background-size: 100%;
 width: 100%;
 
 font-family: Arial;
