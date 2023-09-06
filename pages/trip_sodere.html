@@ -75,11 +75,77 @@
       width: 100%;
     }
   }
-</style>
+
+   
+  .dropbtn {
+    background-color:#ba6215;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  
+  .dropdown:hover .dropbtn {
+    background-color: #1b7ebc;
+  }
+  </style>
 </head>
 
 
 <body>
+
+  <div class="box-2">
+
+
+    <div class="dropdown">
+        <button class="dropbtn">List Of Visited Places</button>
+     
+        <div class="dropdown-content">
+          <a href="trip_sodere.html">Sodere</a>
+          <a href="trip_addis_ababa_university.html">Addis Ababa University</a>
+          <a href="trip_science_museum.html">Science and Technology Mouseum</a>
+          <a href="trip_yaya_village.html">Yaya Athletics Village</a>
+          <a href="trip_ambo_ethiopia_hotel.html">Ambo Ethiopia Hotel</a>
+        </div>
+      </div>
+    
+    
+    
+    </div>
 
 
   <h2>My Trip to Sodere Resot Hotel</h2>
