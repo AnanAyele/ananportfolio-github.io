@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Elsie Swash Caps
+- Font Author: Copyright (c) 2010-2012, Alejandro Inler (alejandroinler@gmail.com), with Reserved Font Name 'Elsie'
+- Font Source: http://fonts.gstatic.com/s/elsieswashcaps/v23/845DNN8xGZyVX5MVo_upKf7KnjK0ferVKGWsUo8.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

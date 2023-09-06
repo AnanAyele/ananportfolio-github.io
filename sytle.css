@@ -1,0 +1,71 @@
+body{
+
+text-align: center;
+align-content: center;
+background-image: url("images/backgroung/background.jpg");
+background-size: cover; 
+background-size: 100%;
+width: 100%;
+background-repeat: repeat-y;
+font-family: Arial;
+
+}
+
+.icon_name{
+  color: red;
+  border-radius: 5%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+  color: black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container_0{
+
+  display: flex;
+ /* align-items: center;
+  flex-direction: row; */
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-content: center;
+  gap: 10em;
+}
+  .box_1{
+  position: relative;  
+  width: 100%;
+} 
+.overlay {
+  opacity: 0;
+  transition: .5s;
+}
+.box_1:hover .overlay {
+  opacity: 1;
+}
+.box_2:hover .overlay {
+    opacity: 1;
+  }
+
+  .box_3:hover .overlay {
+    opacity: 1;
+  }
+  .box_4:hover .overlay {
+    opacity: 1;
+  }
+
+.image {
+   
+  position: absolute; 
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 30pt;
+  text-align: center;  
+} 
+
+.pics{
+
+  width: 100px;
+}
+
