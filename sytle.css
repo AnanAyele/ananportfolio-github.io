@@ -4,7 +4,6 @@
 body{
 
 text-align: center; 
-align-content: center;
 background-image: url("images/backgroung/background.jpg"); 
 background-size: cover; 
 background-repeat: repeat-y;
@@ -14,58 +13,6 @@ width: 100%;
 font-family: Arial;
 
 }
-
-/*
-
-.call{
-  display: flex;
-  padding: 1%;
-  text-align: center;
-}
-
-.c1{
- 
-  flex: 1;
-  order: 1;
-  flex-basis: 16%;
-}
-.c2{
- 
-  flex: 1;
-  order: 2;
-  flex-basis: 16%;
-}
-
-.c3{
- 
-  flex: 1;
-  order: 3;
-  flex-basis: 16%;
-}
-
-
-
-.c4{
- 
-  flex: 1;
-  order: 4;
-  flex-basis: 16%;
-}
-.c5{
- 
-  flex: 1;
-  order: 5;
-  flex-basis: 16%;
-}
-
-.c6{
- 
-  flex: 1;
-  order: 6;
-  flex-basis: 16%;
-}
-
-*/
 
 
 a {
@@ -77,14 +24,15 @@ a {
 
 button{
 
-  background-color: white;
+  background-color: rgb(145, 238, 145, 0.6);
+  color: rgb(51, 170, 148);
   border: none;
   text-align: center;
   text-decoration: none;
   transition-duration: 0.4s;
-  font-size: 10pt;
-  width: 45pt;
-  height:45pt;
+  font-size: 20pt;
+  width: 100pt;
+  height:100pt;
   border-radius: 50%;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   
@@ -103,12 +51,15 @@ h1{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+p{
 
-@media (min-width: 500px) {
-  .container_0 {
-    display: flex;
-  }
+  text-align: center;
+  
+  padding:2%;
+
+ 
 }
+
 
   
 
