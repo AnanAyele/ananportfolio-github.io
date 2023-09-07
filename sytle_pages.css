@@ -1,5 +1,5 @@
 body {
-  background-color: #60b2d8;
+  background-color: gray;
   padding: 1%;
   padding-top: 0.2%;
   padding-bottom: 0.2%;
@@ -135,7 +135,7 @@ color: red;
     padding-top: 0.5%;
     justify-content: space-evenly; */
   
-  background-color: grey;
+  background-color: rgb(144, 238, 144, 0.6);
  
 }
 
