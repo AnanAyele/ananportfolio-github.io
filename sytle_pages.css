@@ -5,7 +5,7 @@ body {
   padding-bottom: 0.2%;
   text-overflow: normal;
   break-after: avoid;
-  font-family: Arial;
+
 }
 
 
@@ -125,6 +125,7 @@ color: red;
   height: 100px;
   flex-basis: 50%;
   border-radius: 25px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   /*
   
   width: auto;
@@ -146,6 +147,7 @@ color: red;
   flex-basis: 50%;
   padding: 2%;
   height: 300px;
+  font-family: Arial;
 }
 
             

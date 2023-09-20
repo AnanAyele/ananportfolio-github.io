@@ -10,11 +10,14 @@ background-repeat: repeat-y;
 background-size: 100%;
 width: 100%;
 
-font-family: Arial;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
 
+p{
+  font-family: Arial, Helvetica, sans-serif;
 
+}
 a {
   color: rgb(199, 74, 2);
   text-transform: uppercase;
@@ -54,10 +57,8 @@ h1{
 p{
 
   text-align: center;
-  
   padding:2%;
-
- 
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 
