@@ -14,7 +14,7 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
 
-p{
+.disclaimer{
   font-family: Arial, Helvetica, sans-serif;
 
 }
@@ -41,9 +41,10 @@ button{
   
 }
 
+
+
 button:hover{
 background-color: yellow;
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 color: red;
 }
 
